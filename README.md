@@ -2,7 +2,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Macondo&weight=600&size=32&duration=4000&pause=600&color=2EF7DA&background=85858500&center=true&vCenter=true&random=false&width=635&lines=Hi%2C+I'm+Daniil;I'm+Front-End+Developer;2%2B+years+of+experience+in+JS;1%2B+years+of+experience+in+React;Always+learning+new+things;Platinum+for+the+Witcher+3" alt="Typing SVG" />
   </a>
 </p>
-
+<p align="center">
+  <a href="https://grimaveira.github.io/react-portfolio"  style="text-decoration: none;">
+      My web-portfolio
+  </a>
+</p>
 <p align="center">
   <a href=https://t.me/grimaveira><img height="48" width="48" src="https://cdn.simpleicons.org/telegram/2EF7DAFF"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
