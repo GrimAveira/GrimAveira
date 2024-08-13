@@ -3,7 +3,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://grimaveira.github.io/react-portfolio"  style="text-decoration: none;">
+  <a href="https://grimaveira.github.io/react-portfolio-v2"  style="text-decoration: none;">
       My web-portfolio
   </a>
 </p>
